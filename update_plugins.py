@@ -50,6 +50,7 @@ mru.vim https://github.com/vim-scripts/mru.vim
 vim-markdown https://github.com/tpope/vim-markdown
 vim-markdown https://github.com/plasticboy/vim-markdown
 tabular https://github.com/godlygeek/tabular
+vim-toml https://github.com/cespare/vim-toml
 """.strip()
 
 GITHUB_ZIP = '%s/archive/master.zip'
